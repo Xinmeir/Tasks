@@ -16,7 +16,7 @@ git reflog                 # 查看所有操作记录（包括被删除的提交
 ```bash
 git reset --soft HEAD~1    # 回退到上一个提交，保留工作区改动
 git reset --mixed HEAD~1   # 默认模式，回退提交且保留工作区改动，但取消暂存
-git reset --hard HEAD~1    # 彻底回退到指定版本（慎用！会丢失未提交的修改）
+git reset --hard HEAD~1    # 彻底回退到指定版本（慎用！！！会丢失未提交的修改）
 
 # 回滚到具体commit
 git reset --hard a1b2c3d   # 使用具体commit哈希值
