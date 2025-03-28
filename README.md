@@ -22,17 +22,19 @@
 
 ## <font face="楷体" size="8px">二.阶段三任务</font>
 
-### 1.HTML基本笔记 
+### 1.HTML基本笔记 [Tasks/HTML.md at main · Xinmeir/Tasks (github.com)](https://github.com/Xinmeir/Tasks/blob/main/HTML.md)
 
-### 2.CSS基本笔记
+### 2.CSS基本笔记[Tasks/CSS.md at main · Xinmeir/Tasks (github.com)](https://github.com/Xinmeir/Tasks/blob/main/CSS.md)
 
-### 3.JavaScript基本笔记
+### 3.JavaScript基本笔记[Tasks/JavaScript.md at main · Xinmeir/Tasks (github.com)](https://github.com/Xinmeir/Tasks/blob/main/JavaScript.md)
 
-### 4.静态网页网页代码
+### 4.静态网页网页代码[Tasks/index.html at main · Xinmeir/Tasks (github.com)](https://github.com/Xinmeir/Tasks/blob/main/index.html)
 
-### 5.静态网页页面
+### 5.静态网页页面https://xinmeir.github.io/web-Tasks/
 
-### 6.Markdown 运行原理与浏览器技术结合分析（进阶）
+### 6.Markdown 运行原理与浏览器技术结合分析（进阶）[Tasks/三件套在浏览器的运行原理重新思考markdown的基本逻辑（进阶）.md at main · Xinmeir/Tasks (github.com)](https://github.com/Xinmeir/Tasks/blob/main/三件套在浏览器的运行原理重新思考markdown的基本逻辑（进阶）.md)
+
+（那个小米商城没有做完，自己业余的尝试）
 
 
 
